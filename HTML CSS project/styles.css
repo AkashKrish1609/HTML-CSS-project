@@ -1,0 +1,113 @@
+body {
+  height: 100%;
+  background-color: hsl(30, 38%, 92%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+.product {
+  background-color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: 450px;
+  width: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 10px;
+}
+
+.image {
+  background-image: url("images/image-product-desktop.jpg");
+  background-size: cover;
+  border-radius: 10px 0 0 10px;
+}
+
+.heading-1 {
+  padding: 20px 0;
+  font-weight: 200;
+}
+
+.heading-1, h1, p {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 10px;
+  color: hsl(228, 12%, 48%);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: hsl(212, 21%, 14%);
+}
+
+p {
+  line-height: 20px;
+  color: hsl(228, 12%, 48%);
+}
+
+.offer-price {
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  font-size: 2em;
+  color: hsl(158, 36%, 37%);
+}
+
+.orig-price {
+  text-decoration: line-through;
+}
+
+.price {
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+}
+
+.btn {
+  background-color: hsl(158, 36%, 37%);
+  width: 90%;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: hsl(151, 35%, 19%);
+}
+
+.button-section {
+  padding: 20px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.attr {
+  text-decoration: none;
+}
+
+@media (max-width: 610px) {
+  .product {
+    width: 75%;
+    height: 80%;
+    display: block;
+  }
+
+  .image {
+    height: 50%;
+    width: 100%;
+    background-image: url("images/image-product-mobile.jpg");
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .attribution {}
+}
