@@ -36,8 +36,8 @@ Users should be able to:
 - Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
- -I arranged everything in order with HTML first
- -Then I styled the page with CSS
+ - I arranged everything in order with HTML first
+ - Then I styled the page with CSS
  
 ### Built with
 
@@ -48,17 +48,17 @@ Users should be able to:
 ### What I learned
  This is my first project with frontend mentor. It was a great learning as I got to implement whatever I learnt. This project helps my confidence as a website developer..
  
- -I learned grid in this project
- -how to use grid in the display attribute
- -grid-template-columns is another attribute I learnt which shapes the grid columns
- -I learnt to center objects with position attribute
+ - I learned grid in this project
+ - how to use grid in the display attribute
+ - grid-template-columns is another attribute I learnt which shapes the grid columns
+ - I learnt to center objects with position attribute
  
 ### Continued development
 The concepts which I am not fully understand are :
 
--position (absolute, relative)
--display 
--transform
+- position (absolute, relative)
+- display 
+- transform
 
 ### Useful resources
 
