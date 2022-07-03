@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
  -I arranged everything in order with HTML first
@@ -62,11 +62,9 @@ The concepts which I am not fully understand are :
 
 ### Useful resources
 
-- [Example resource 1](https://github.com/orafaeloliveira/product-preview-card-component-main) - This helped me to complete my project. Things like how to center, how to use absolute and relative positioning, gave me a different method of solving the project.
+- [Rafael Oliveira](https://github.com/orafaeloliveira/product-preview-card-component-main) - This helped me to complete my project. Things like how to center, how to use absolute and relative positioning, gave me a different method of solving the project.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@AkashKrish1609](https://www.frontendmentor.io/profile/AkashKrish1609)
 - Twitter - [@SANKAR_1609](https://twitter.com/SANKAR_1609)
 
