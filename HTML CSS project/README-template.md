@@ -30,15 +30,15 @@ Users should be able to:
 
 ![](images/Screenshot.jpeg)
 
-
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
+ -I arranged everything in order with HTML first
+ -Then I styled the page with CSS
+ 
 ### Built with
 
 - Semantic HTML5 markup
@@ -46,50 +46,29 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
+ This is my first project with frontend mentor. It was a great learning as I got to implement whatever I learnt. This project helps my confidence as a website developer..
+ 
+ -I learned grid in this project
+ -how to use grid in the display attribute
+ -grid-template-columns is another attribute I learnt which shapes the grid columns
+ -I learnt to center objects with position attribute
+ 
 ### Continued development
+The concepts which I am not fully understand are :
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+-position (absolute, relative)
+-display 
+-transform
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 1](https://github.com/orafaeloliveira/product-preview-card-component-main) - This helped me to complete my project. Things like how to center, how to use absolute and relative positioning, gave me a different method of solving the project.
 
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@AkashKrish1609](https://www.frontendmentor.io/profile/AkashKrish1609)
+- Twitter - [@SANKAR_1609](https://twitter.com/SANKAR_1609)
 
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to give credit for this man [Rafael Oliveira](https://github.com/orafaeloliveira).
